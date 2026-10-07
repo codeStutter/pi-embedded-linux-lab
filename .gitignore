@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.o
+*.i
+*.s
+a.out
+c-exercises/**/hello
+c-exercises/**/wallTest
